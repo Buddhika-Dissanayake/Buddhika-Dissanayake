@@ -74,7 +74,7 @@ With a solid analytical mindset and exposure to real-world statistical applicati
 
 ## 📬 Contact Me
 
-[![Facebook](https://icons8.com/icon/118497/facebook)](https://web.facebook.com/profile.php?id=61577805115575)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=61577805115575)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 📞 **Phone**: +94 777 446 124  
 📧 **Email**: buddhikaidc.sm@gmail.com  
