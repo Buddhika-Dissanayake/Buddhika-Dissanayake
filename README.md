@@ -1,8 +1,48 @@
-# 👋 Hi there, I'm Buddhika Dissanayake
+# 👋 Hello, I'm Buddhika Dissanayake
 
-🎓 **Statistician** | 📊 Data Enthusiast | 🔍 Researcher  
-I am passionate about turning data into insights and using statistics to solve real-world problems.  
-My work blends data analysis, programming, and research to drive meaningful outcomes.
+🎓 **Statistician** | 📈 Researcher | 🏛️ Executive Officer – Government of Sri Lanka  
+🔬 🇱🇰 Passionate about Data & Research
+
+---
+
+## 🧑‍🎓 About Me
+
+I'm a **statistician** with a strong foundation in mathematics, physics, and data science.  
+Currently, I serve as an **Assistant Director at the Sri Lanka Planning Service**, contributing to national policy implementation and development strategy as an executive officer in the Sri Lankan government.
+
+My academic journey began with a **Bachelor’s degree in Physics**, which led me into the **field of metrology and calibration** at the **National Metrology Institute of Sri Lanka**.  
+While working in scientific instrumentation, I developed a deep interest in data and modeling, which drove me to pursue a **Master’s in Applied Statistics**, where I graduated **top of my batch**.
+
+With a solid analytical mindset and exposure to real-world statistical applications, I’m deeply passionate about **research, statistical modeling, and using data for public impact**.  
+
+---
+
+## 🎓 Education
+
+- 🎓 **MSc in Applied Statistics**, Postgraduate Institute of Sri Lanka - University of Peradeniya  
+- 🎓 **BSc in Physics**  
+
+---
+
+## 👥 Professional Memberships
+
+- 🎖️ **Licentiate Member**, Institute of Physics, Sri Lanka  
+
+---
+
+## 🌐 Languages
+
+- 🗣️ **Sinhala** – Native  
+- 💬 **English** – Proficient  
+- 🗨️ **Tamil** – Second Language  
+
+---
+
+## 📚 Research Interests
+
+- 📌 **Bayesian Statistics**  
+- 📌 **Applied Statistics**  
+- 📌 **Statistical Computing & Programming**
 
 ---
 
@@ -32,7 +72,14 @@ My work blends data analysis, programming, and research to drive meaningful outc
 
 ---
 
-📬 **Let's Connect**  
-Feel free to check out my repositories or reach out for collaborations in research, analytics, or data science.
+## 📬 Contact Me
 
+[![Facebook](https://icons8.com/icon/118497/facebook)](https://web.facebook.com/profile.php?id=61577805115575)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+📞 **Phone**: +94 777 446 124  
+📧 **Email**: buddhikaidc.sm@gmail.com  
 
+---
+
+I'm always open to collaboration, research opportunities, and discussions in the areas of statistics, and data science.  
+Feel free to explore my repositories and reach out!
