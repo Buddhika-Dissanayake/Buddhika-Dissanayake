@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Buddhika Dissanayake
 
 🎓 **Statistician** | 📈 Researcher | 🏛️ Executive Officer – Government of Sri Lanka  
-🔬 🇱🇰 Passionate about Data & Research
+🔬 🇱🇰 Passionate about Data & Researchm
 
 ---
 
